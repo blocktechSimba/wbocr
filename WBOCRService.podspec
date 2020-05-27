@@ -4,6 +4,7 @@ Pod::Spec.new do |s|
   s.version          = '3.3.3'
   s.summary          = '博洛科技的OCR私有库'
   s.description      = "ocr SDK"
+  s.homepage 	     = ''
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Mike' => 'mike@iblocktech.com' }
   s.source           = { :git => "https://github.com/blocktechSimba/wbocr.git" }
