@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/blocktechSimba/wbocr/tree/master"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Mike' => 'mike@iblocktech.com' }
-  s.source           = { :git => "git clone https://ae03d56644925695064c89ca184421a43408ae32@github.com/blocktechSimba/wbocr.git" }
+  s.source           = { :git => "https://ae03d56644925695064c89ca184421a43408ae32@github.com/blocktechSimba/wbocr.git" }
   
   s.ios.deployment_target = '9.0'
   s.library = 'c++'
